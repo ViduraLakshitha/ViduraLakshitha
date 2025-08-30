@@ -67,32 +67,16 @@
 
 <div align="center">
   </br>
-  <a href="https://www.linkedin.com/in/edvardasjusius/">
+  <a href="www.linkedin.com/in/vidura-lakshitha">
     <img
       src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"
-      alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/e2.edas/">
-    <img
-      src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram"
-      alt="LinkedIn">
-  </a>
-  <a href="https://stackoverflow.com/users/5272951/dumbo">
-    <img
-      src="https://img.shields.io/badge/StackOverflow--_.svg?style=social&logo=stackoverflow"
-      alt="LinkedIn">
-  </a>
-  <a href="https://stackoverflow.com/users/5272951/dumbo">
-    <img
-      src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github"
       alt="LinkedIn">
   </a>
 
   </br>
 
   <img
-    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Dum6o/&title=Profile%20Views"
-    alt="Profile Views">
+    src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FViduraLakshitha&label=Vidura+Lakshitha+Github&icon=github&color=%23198754&message=&style=flat&tz=UTC">
 </div>
 
 <!-- FOOTER -->
